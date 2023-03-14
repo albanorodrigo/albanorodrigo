@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👋 Hi, I’m Rodrigo Albano
+👀 I’m interested in Coding, Teaching, Futbol, Diving and Trekking!
+🌱 I’m currently learning a lot of stuff
+
 <!--
 **albanorodrigo/albanorodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
